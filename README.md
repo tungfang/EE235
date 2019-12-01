@@ -1,5 +1,4 @@
-# EE235
-Continuous Time Linear Systems
+# EE235 Continuous Time Linear Systems
 
 In the EE235 labs, we use many of the basic concepts of programming that we learned in CSE 142 and 143. We learn how to express them in the Python language. 
 
